@@ -1,0 +1,172 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "firstName": "Raouf",
+            "lastName": "Ali",
+            "email": "random@mail.com",
+            "createdDate": "2024-01-05T19:32:26.0191128-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 2,
+            "firstName": "Narcissus",
+            "lastName": "Zander",
+            "email": "narci.zander@arvinmeritor.info",
+            "createdDate": "2024-01-03T19:32:26.0191158-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 3,
+            "firstName": "Vyvyan",
+            "lastName": "Zuber",
+            "email": "vyvya_zuber@careful-organics.org",
+            "createdDate": "2024-01-05T19:32:26.0191161-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 4,
+            "firstName": "Julya",
+            "lastName": "Kelton",
+            "email": "ju-kelto@consolidated-farm-research.net",
+            "createdDate": "2024-01-02T19:32:26.0191163-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 5,
+            "firstName": "Aleksia",
+            "lastName": "Munos",
+            "email": "ale.mu@arketmay.com",
+            "createdDate": "2024-01-01T19:32:26.0191165-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 6,
+            "firstName": "Lakshman",
+            "lastName": "Byrnes",
+            "email": "lakshmadono@autozone-inc.info",
+            "createdDate": "2023-12-31T19:32:26.0191168-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 7,
+            "firstName": "Morgana",
+            "lastName": "Lenhart",
+            "email": "mo.munos@consolidated-farm-research.net",
+            "createdDate": "2023-12-30T19:32:26.019117-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 8,
+            "firstName": "Beatrice",
+            "lastName": "Eatmon",
+            "email": "bea-byrn@consolidated-farm-research.net",
+            "createdDate": "2023-12-30T19:32:26.0191172-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 9,
+            "firstName": "Mindel",
+            "lastName": "",
+            "email": "minde.byrn@egl-inc.info",
+            "createdDate": "2023-12-17T19:32:26.0191174-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 10,
+            "firstName": "Algerine",
+            "lastName": "Clymer",
+            "email": "algerin.lenhar@arvinmeritor.info",
+            "createdDate": "2024-01-05T19:32:26.0191176-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 11,
+            "firstName": "Klementyna",
+            "lastName": "Marburger",
+            "email": "klementynaeatm@autozone-inc.info",
+            "createdDate": "2023-12-26T19:32:26.0191179-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 12,
+            "firstName": "Varanese",
+            "lastName": "Clymer",
+            "email": "var_eatm@arvinmeritor.info",
+            "createdDate": "2023-12-30T19:32:26.0191181-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 13,
+            "firstName": "Mairead",
+            "lastName": "Gerson",
+            "email": "ma_eat@acusage.net",
+            "createdDate": "2023-12-28T19:32:26.0191183-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 14,
+            "firstName": "Melik",
+            "lastName": "Zander",
+            "email": "meli_cl@progressenergyinc.info",
+            "createdDate": "2023-11-22T19:32:26.0191185-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 15,
+            "firstName": "Klementyna",
+            "lastName": "Womack",
+            "email": "Marburger,klementynmarburge@egl-inc.info",
+            "createdDate": "2023-12-31T19:32:26.0191188-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 16,
+            "firstName": "Lakshman",
+            "lastName": "Zuber",
+            "email": "laksh-cly@consolidated-farm-research.net",
+            "createdDate": "2023-10-21T19:32:26.019119-07:00",
+            "updatedDate": null
+          },
+          {
+            "id": 17,
+            "firstName": "Sneha",
+            "lastName": "Donohue",
+            "email": "sn.gerso@diaperstack.com",
+            "createdDate": "2023-10-30T19:32:26.0191192-07:00",
+            "updatedDate": null
+          },
+          {
+            "id": 18,
+            "firstName": "Marny",
+            "lastName": "Byrnes",
+            "email": "marny_zander@acusage.net",
+            "createdDate": "2024-01-05T19:32:26.0191194-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 19,
+            "firstName": "Servan",
+            "lastName": "Lenhart",
+            "email": "servanza@arvinmeritor.info",
+            "createdDate": "2024-01-04T19:32:26.0191196-08:00",
+            "updatedDate": null
+          },
+          {
+            "id": 20,
+            "firstName": "Cherish",
+            "lastName": "Eatmon",
+            "email": "cheriswomack@egl-inc.info",
+            "createdDate": "2022-06-30T19:32:26.0191199-07:00",
+            "updatedDate": null
+          },
+          {
+            "id": 21,
+            "firstName": "Catalina",
+            "lastName": "Marburger",
+            "email": "marburg@careful-organics.org",
+            "createdDate": "2023-01-06T19:32:26.0191201-08:00",
+            "updatedDate": null
+          }
+    ]
+  }

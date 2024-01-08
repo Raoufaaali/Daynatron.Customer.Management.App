@@ -1,0 +1,27 @@
+<div mat-dialog-title>
+    <h1>{{data ? 'Edit': 'Add'}} Customer Form</h1>
+</div>
+<form [formGroup]="custForm" (ngSubmit)="onSubmit()">
+    <div mat-dialog-content class="content">
+        <div class="row">
+            <mat-form-field appearance="outline">
+                <mat-label>First name:</mat-label>
+                <input matInput type="text" placeholder="i.e David" formControlName="firstName">
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+                <mat-label>Last Name:</mat-label>
+                <input matInput placeholder="i.e Smith" formControlName="lastName">
+            </mat-form-field>
+        </div>
+        <div class="row">
+            <mat-form-field appearance="outline">
+                <mat-label>Email:</mat-label>
+                <input matInput type="email" placeholder="i.e david@gmail.com" formControlName="email">
+            </mat-form-field>
+        </div>
+    </div>
+    <div mat-dialog-actions class="action-btns">
+        <button style="margin: 10px;" mat-raised-button color="accent" type="submit">{{data ? 'Update': 'Save'}}</button>
+        <button mat-raised-button type="button" color="warn" [mat-dialog-close]="false">Cancel</button>
+    </div>
+</form>
